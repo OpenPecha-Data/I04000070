@@ -1,0 +1,11 @@
+id: a55ed7ebf4be4a7b9ab008c56e0f8f09
+annotation_type: index
+revision: '00001'
+annotations:
+  f729827b25584ba5b10ceaa9d2e4918d:
+    base: 9ECE.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 10
